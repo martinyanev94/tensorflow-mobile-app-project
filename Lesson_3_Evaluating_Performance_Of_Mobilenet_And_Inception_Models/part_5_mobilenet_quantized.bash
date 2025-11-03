@@ -1,0 +1,1 @@
+--architecture mobilenet_1.0_224_quantized
